@@ -4,7 +4,7 @@
 <br/>
 
 ![Dashboard Banner](banner.png)
-> *Replace the image above with a banner screenshot of your full Executive Summary page*
+> 
 
 <br/>
 
